@@ -82,7 +82,7 @@ modules:
         /app/share/applications/dolphin-emu.desktop
     sources:
       - type: git
-        url: https://github.com/dolphin-emu/dolphin.git
+        url: https://github.com/bsellers3/dolphin.git
         commit: 992b4ea9309899ebc7ca576ebea711a70523098a
         x-checker-data:
           type: json
